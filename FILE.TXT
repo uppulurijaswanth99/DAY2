@@ -1,1 +1,2 @@
 This is my first repo
+git congig --global init.defaultbranch main
